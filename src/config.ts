@@ -8,7 +8,7 @@ const config = {
       name: 'AHSession',
       date: '2024-07-21',
       place: '名古屋・ポートメッセなごや',
-      content: 'AHSキャラクターオンリー即売会',
+      content: 'AHSキャラクターオンリー同人誌即売会',
       twitterId: 'jambandsession'
     },
     shouldShowNectaritionLogo: false
