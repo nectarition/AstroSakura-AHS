@@ -1,5 +1,5 @@
 const config = {
-    siteUrl: 'https://ahsdraft.nrsy.jp',
+    siteUrl: 'https://ahsesession.com',
     copyright: {
       year: 2024,
       author: 'えいちせ準備会'
