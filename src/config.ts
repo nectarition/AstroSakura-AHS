@@ -6,8 +6,8 @@ const config = {
     },
     event: {
       name: 'AHSession',
-      date: '2024-07-21',
-      place: '名古屋・ポートメッセなごや',
+      date: '2025-05-04',
+      place: '東京・大田区産業プラザPiO',
       content: 'AHSキャラクターオンリー同人誌即売会',
       twitterId: 'jambandsession'
     },
